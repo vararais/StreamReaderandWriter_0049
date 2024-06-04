@@ -1,5 +1,5 @@
 #include <iostream>
-#include <iostream>
+#include <exception>
 #include <array>
 
 using namespace std;
@@ -19,6 +19,6 @@ int main()
         }
         cout << "Baris program yang terakhir" << endl;
         
-            return 0;
+        return 0;
 
 }
