@@ -23,5 +23,12 @@ int main()
 
 		outfile << baris << endl;
 	}
+	outfile.close();
+
+	ifstream infile;
+
+	infile.open("Contohfile.txt");
+
+	cout << endl << ">= Membuka dan membaca file " << endl;
 }
 
