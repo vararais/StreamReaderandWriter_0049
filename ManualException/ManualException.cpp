@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	try {
-		cout << "selamat belajar di produ TI UMY" << endl;
+		cout << "selamat belajar di prodi TI UMY" << endl;
 		cout << "Pertnyataan tidak akan diresekusi" << endl;
 	}
 	catch (int a) {
