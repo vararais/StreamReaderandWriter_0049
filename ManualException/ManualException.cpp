@@ -5,7 +5,7 @@ int main()
 {
 	try {
 		cout << "selamat belajar di prodi TI UMY" << endl;
-		cout << "Pertnyataan tidak akan diresekusi" << endl;
+		cout << "Pernyataan tidak akan diresekusi" << endl;
 	}
 	catch (int a) {
 		cout << " Pengecualian akan dieksekusi" << endl;
